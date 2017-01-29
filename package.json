@@ -1,7 +1,7 @@
 {
   "name": "jsonstats",
   "version": "1.0.0",
-  "description": "",
+  "description": "cli for ndjson based streaming summary statistics on numbers",
   "main": "index.js",
   "bin": {
     "jsonstats": "cli.js"
