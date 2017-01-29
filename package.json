@@ -1,0 +1,24 @@
+{
+  "name": "jsonstats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jsonstats": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxogden/jsonstats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/maxogden/jsonstats/issues"
+  },
+  "homepage": "https://github.com/maxogden/jsonstats#readme",
+  "dependencies": {
+    "ndjson": "^1.5.0",
+    "stream-statistics": "^0.4.0"
+  }
+}
